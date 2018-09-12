@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- 低价图底部分割线高度 -->
+    <dimen name="low_price_split_v_h">3dp</dimen>
+    <!-- 低价图线宽度 -->
+    <dimen name="low_price_bezier_line_w">2.2dp</dimen>
+    <!-- 低价图分割线 竖线 -->
+    <dimen name="low_price_bottom_line_v">1dp</dimen>
+    <!-- 低价图圆点半径 -->
+    <dimen name="low_price_point_radius">2dp</dimen>
+    <!-- 低价图圆点线宽 -->
+    <dimen name="low_price_point_width">2.7dp</dimen>
+    <!-- 低价图横线宽度 -->
+    <dimen name="low_price_split_line_h">0.5dp</dimen>
+    <!-- 低价图移动线宽度 -->
+    <dimen name="low_price_move_line_h">1dp</dimen>
+
+</resources>
